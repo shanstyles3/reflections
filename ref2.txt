@@ -1,1 +1,3 @@
 Now that you have a workspace set up what do you want to try using Git for?
+
+Maybe for future enahncements.
